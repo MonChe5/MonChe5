@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MonChe5
-- 👀 I’m interested in technology, data and everything 
+- 👀 I’m interested in technology, data, cybersecurity and everything else
 - 🌱 I’m currently learning data analytics and data science
 - 😄 Pronouns: She, her
 - ⚡ Fun fact: Fulltime Mother of Dragons now in training for reskilling
